@@ -1,9 +1,9 @@
 ### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
-- Kelas : 6B
+- Nama  : Muhammad Hanif Aji Wiratama
+- NIM   : 18090065
+- Kelas : 6C
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
