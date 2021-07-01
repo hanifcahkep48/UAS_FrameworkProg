@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/11lNuUxuJ8tIFjecEM4pr-YhuSfr87_uq/view?usp=sharing) klik
+### [Aplikasi Perekaman Data Barangku](http://app-databarangku.herokuapp.com/) klik
+### [Laporan (Diagram & penjelasan)](https://drive.google.com/file/d/11lNuUxuJ8tIFjecEM4pr-YhuSfr87_uq/view?usp=sharing) klik
 #### By
 - Nama  : Muhammad Hanif Aji Wiratama
 - NIM   : 18090065
