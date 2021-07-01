@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Data Barangku](http://app-databarangku.herokuapp.com/) klik
-### [Laporan (Diagram & penjelasan)](https://drive.google.com/file/d/11lNuUxuJ8tIFjecEM4pr-YhuSfr87_uq/view?usp=sharing) klik
+### [Aplikasi Perekaman Data Barangku](http://app-databarangku.herokuapp.com/)
+### [Laporan (Diagram & penjelasan)](https://drive.google.com/file/d/11lNuUxuJ8tIFjecEM4pr-YhuSfr87_uq/view?usp=sharing)
 #### By
 - Nama  : Muhammad Hanif Aji Wiratama
 - NIM   : 18090065
